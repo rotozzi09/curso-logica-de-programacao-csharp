@@ -12,6 +12,7 @@ namespace uri1001 {
             X = A + B;
 
             Console.WriteLine("X = " + X);
+            Console.ReadLine(); 
         }
     }
 }
