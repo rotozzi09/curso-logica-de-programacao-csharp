@@ -12,6 +12,7 @@ namespace uri1003 {
             soma = A + B;
 
             Console.WriteLine("SOMA = " + soma);
+            Console.ReadLine();
         }
     }
 }
